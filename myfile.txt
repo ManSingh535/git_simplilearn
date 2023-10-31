@@ -1,3 +1,7 @@
 LINE 1
 LINE 2 added on remote repository.
 LINE 4 added on local repository.
+
+
+LINE 6 added on remote repository.
+LINE 7 added on remote repository.
